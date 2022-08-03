@@ -1,0 +1,18 @@
+{
+  "name": "situs-gacor-slot",
+  "main": "./lib/situs-gacor-slot",
+  "version": "1.0.0",
+  "description": "Bet Kecil Trik Main Situs Gacor Slot Gampang Jp",
+  "keywords": ["bandar slot online","bandar slot","habanero slot","microgaming","agen slot online","pocket gaming soft","agentotoplay slot"],
+
+  "activationCommands": {
+    "atom-workspace": "situs-gacor-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya90/situs-gacor-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

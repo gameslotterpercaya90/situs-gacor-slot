@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle situs-gacor-slot",
+        "command": "situs-gacor-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "situs-gacor-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "situs-gacor-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
